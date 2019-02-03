@@ -49,3 +49,11 @@ php -S localhost:8000 -t public
 #### Administration access
 
 The administration parts are accessible via the following paths: `/admin/comment` and `/admin/themes-jobs`.
+
+## Authors
+
+* [Julia LIMOUSIN](https://github.com/1A2Z3E4R)
+* [Steven GRILLON](https://github.com/StevenGrl)
+* [Cyril DO](https://github.com/cyrildo)
+* [Thomas HUBERT](https://github.com/Thomash45)
+* [Julien ALEXANDRE](https://github.com/JuAlexandre)
